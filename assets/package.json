@@ -1,0 +1,16 @@
+{
+  "name": "newspaper",
+  "version": "1.0.0",
+  "description": "This is nespaper app",
+  "scripts": {
+    "build": "postcss css/app.css -o css/app.min.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.4"
+  }
+}
